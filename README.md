@@ -134,19 +134,8 @@ Estado -> Controller -> View (Actualización automática)
 
 ## 📱 Screenshots
 
+![alt text](image.png)
 
-
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea tu Feature Branch
-3. Commit tus cambios
-4. Push al Branch
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles
 
 ## ✨ Próximas Mejoras
 
@@ -156,24 +145,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detall
 - [ ] Integración con APIs usando GetConnect
 - [ ] Tests unitarios y de widgets
 
-## 👥 Autores
-
-- Tu nombre
-- [Enlace a tu perfil]
-
-## 🙏 Agradecimientos
-
-- GetX Team por el excelente framework
-- Flutter Team
-- Contribuidores
-
----
-⌨️ con ❤️ por [Tu Nombre]
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues).
-
-## 📞 Contact
-
-Created by [@jorgemr3](https://github.com/jorgemr3) - feel free to contact me!
